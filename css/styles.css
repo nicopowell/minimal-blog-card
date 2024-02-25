@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #E5EAF0;
+    background: #FAFAF9;
 }
 
 main {
@@ -24,9 +24,9 @@ main {
 }
 
 .card {
-    width: 350px;
-    min-height: 350px;
-    background-color: #fafaf9;
+    width: 360px;
+    min-height: 360px;
+    background-color: #FFFFFF;
     box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
     border-radius: 1rem;
 }
